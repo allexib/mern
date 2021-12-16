@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/allexib/mern#readme",
   "dependencies": {
+    "config": "^3.3.6",
     "express": "^4.17.1",
     "mongoose": "^6.1.2"
   },
