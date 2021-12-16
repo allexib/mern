@@ -1,0 +1,26 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "Mern stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allexib/mern.git"
+  },
+  "keywords": [
+    "mern",
+    "mongodb",
+    "express",
+    "react",
+    "nodejs"
+  ],
+  "author": "allexib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allexib/mern/issues"
+  },
+  "homepage": "https://github.com/allexib/mern#readme"
+}
